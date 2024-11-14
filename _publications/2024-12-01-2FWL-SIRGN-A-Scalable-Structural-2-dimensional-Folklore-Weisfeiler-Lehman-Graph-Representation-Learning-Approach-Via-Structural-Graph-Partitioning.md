@@ -1,7 +1,7 @@
 ---
-title: "Detecting Botnet Nodes via Structural Node Representation Learning"
+title: "2FWL-SIRGN: A Scalable Structural 2-dimensional Folklore Weisfeiler Lehman Graph Representation Learning Approach Via Structural Graph Partitioning"
 collection: publications
-permalink: /publication/2021-12-01-Detecting-Botnet-Nodes-via-Structural-Node-Representation-Learning
+permalink: /publication/2024-12-01-2FWL-SIRGN-A-Scalable-Structural-2-dimensional-Folklore-Weisfeiler-Lehman-Graph-Representation-Learning-Approach-Via-Structural-Graph-Partitioning
 excerpt: "2FWL-SIRGN introduces a scalable 2-dimensional Weisfeiler Lehman test applied to graph nodes, paired with a structural graph partitioning technique for large-scale graphs."
 date: 2021-12-01
 venue: 'IEEE'
